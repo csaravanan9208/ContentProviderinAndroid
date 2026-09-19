@@ -27,7 +27,7 @@ Step 7: Save and run the application.
 
 ## PROGRAM :
 
-### Program to print the text create your own content providers to get contacts details.
+## Program to print the text create your own content providers to get contacts details.
 
 ### AndroidManifist.xml
 ```
