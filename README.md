@@ -7,7 +7,7 @@ To create your own content providers to get contacts details using Android Studi
 
 ## EQUIPMENTS REQUIRED :
 
-Android Studio(Min. required Artic Fox)
+Android Studio (Min. required Artic Fox)
 
 ## ALGORITHM :
 
@@ -27,7 +27,7 @@ Step 7: Save and run the application.
 
 ## PROGRAM :
 
-Program to print the text create your own content providers to get contacts details.
+### Program to print the text create your own content providers to get contacts details.
 
 ### AndroidManifist.xml
 ```
@@ -129,7 +129,7 @@ public class MainActivity extends AppCompatActivity
     }
 }
 ```
-### activity_main.xml
+### Activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -177,7 +177,7 @@ public class MainActivity extends AppCompatActivity
 ### AndroidManifist.xml
 <img width="1917" height="1137" alt="image" src="https://github.com/user-attachments/assets/61fafeb2-1f7a-48ab-956f-a55da8c574a2" />
 
-### activity_main.xml
+### Activity_main.xml
 <img width="1919" height="1136" alt="image" src="https://github.com/user-attachments/assets/646b6b67-07e0-4296-9fae-8d3852350be7" />
 
 ### ContentProvider App
